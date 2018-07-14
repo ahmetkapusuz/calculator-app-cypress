@@ -1,6 +1,7 @@
-## Simple Calculator App
+## Simple Calculator App and Cypress integration tests
 This application is a React application which is a simple calculator.
-Related blog post can be read from [here]() 
+Integration tests are written using [Cypress](https://www.cypress.io/).
+Related blog post can be read from [here](https://medium.com/@ahmetkapusuz/testing-react-application-with-cypress-fce9e159fec) 
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
